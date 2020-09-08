@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "school_names">
+        <item>School</item>
+        <item>SOE</item>
+        <item>SODS</item>
+        <item>SOS</item>
+        <item>SOPT</item>
+        <item>SOP</item>
+    </string-array>
+    <string-array name = "sem_number">
+        <item>Sem</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name = "SOE">
+        <item>Branch</item>
+        <item>Mechanical</item>
+        <item>Computer</item>
+        <item>Electrical</item>
+        <item>Ele And Comm</item>
+        <item>Civil</item>
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>IT</item>
+    </string-array>
+    <string-array name = "SOPT">
+        <item>Branch</item>
+        <item>SOPT0</item>
+        <item>SOPT1</item>
+        <item>SOPT2</item>
+        <item>SOPT3</item>
+    </string-array>
+    <string-array name = "SOS">
+        <item>Branch</item>
+        <item>SOS0</item>
+        <item>SOS1</item>
+        <item>SOS2</item>
+        <item>SOS3</item>
+    </string-array>
+    <string-array name = "SODS">
+        <item>Branch</item>
+        <item>SOSD0</item>
+        <item>SOSD1</item>
+        <item>SOSD2</item>
+        <item>SOSD3</item>
+    </string-array>
+    <string-array name = "SOP">
+        <item>Branch</item>
+        <item>SOP0</item>
+        <item>SOP1</item>
+        <item>SOP3</item>
+        <item>SOP4</item>
+    </string-array>
+    <string-array name = "allbranch">
+        <item>Branch</item>
+        <item>SOP0</item>
+        <item>SOP1</item>
+        <item>SOP3</item>
+        <item>SOP4</item>
+        <item>SOSD0</item>
+        <item>SOSD1</item>
+        <item>SOSD2</item>
+        <item>SOSD3</item>
+        <item>SOPT0</item>
+        <item>SOPT1</item>
+        <item>SOPT2</item>
+        <item>SOPT3</item>
+        <item>Mechanical</item>
+        <item>Computer</item>
+        <item>Electrical</item>
+        <item>Ele And Comm</item>
+        <item>Civil</item>
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>IT</item>
+    </string-array>
+</resources>
